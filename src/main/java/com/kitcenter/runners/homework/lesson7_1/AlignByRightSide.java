@@ -2,7 +2,7 @@ package com.kitcenter.runners.homework.lesson7_1;
 
 import java.util.Random;
 
-public class InteractionWithUser {
+public class AlignByRightSide {
 
     public static void main(String[] args) {
 
